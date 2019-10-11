@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 step 1. chop the carlic
 step 2. peel the avo
 step 3. chips
+=======
+3 avo
+2 cloves of garlic
+1 tsp honey
+step 1.chop the garlic
+step 2.pell the avo
+>>>>>>> daade22a7d24bd31f35129e22bccecddd54a857d
